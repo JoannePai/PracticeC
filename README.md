@@ -1,5 +1,5 @@
 # PracticeC
-This file is for practicing C language.  
+This folder is for practicing C language.  
 Ex:  
     1.Bit operation,  
     2.Pointer,  
